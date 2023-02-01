@@ -1,0 +1,9 @@
+{
+    "nhaccuatui":{
+        "url" : "https://www.nhaccuatui.com/tim-kiem?q={}"
+    },
+    "source":{
+        "identifier" : "nhaccuatui"
+    },
+    "download_dir" : "C:\\Download"
+}
